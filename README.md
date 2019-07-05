@@ -27,8 +27,8 @@ This extension is the first task to test your magento 2 skill.
 
 ## Setup
 - Magento 2 Open Source or Commerce edition is required
-- Download and copy "Task1" folder to 'app/code' folder of magento 2
-- Open terminal and run command 'magento module:enable Task1_SignUp'
+- Go to folder 'app/code' in terminal
+- Run command 'git clone https://github.com/SanaeifarAli/Task1.git'
 - Run command 'magento setup:upgrade'
 
 ## Usage
